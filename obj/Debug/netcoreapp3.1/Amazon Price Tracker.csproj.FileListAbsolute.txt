@@ -1,0 +1,15 @@
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.exe
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.deps.json
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.runtimeconfig.json
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.runtimeconfig.dev.json
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.dll
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Amazon Price Tracker.pdb
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.csprojAssemblyReference.cache
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.AssemblyInfoInputs.cache
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.AssemblyInfo.cs
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.dll
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.pdb
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Amazon Price Tracker\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Documents\Amazon Price Tracker\obj\Debug\netcoreapp3.1\Amazon Price Tracker.csproj.CopyComplete
